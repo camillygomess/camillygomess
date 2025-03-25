@@ -6,7 +6,7 @@
 - 🌱 Desenvolvedora front-end em andamento...
 - 👯 Colaborando por uma sociedade mais justa
 - 😄 Pronomes: ela/dela
-- ⚡ Curiosidades: Amante de carros e corridas, apaixonado por músicas
+
 
 <div align="center">
   <a href="https://github.com/camillygomess">
